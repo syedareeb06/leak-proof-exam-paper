@@ -34,6 +34,7 @@ Question papers leak before exams. Today:
 - **Blockchain Explorer**: hash-linked blocks, decoded transactions and the full audit log
 - **Time travel**: move blockchain time forward (+5 min / +1 h) to demo the time-lock in seconds
 - Two blockchains: an **in-browser Ethereum chain** (zero setup) or a **local Hardhat node**
+- **Light / dark theme switch** in the top bar (follows your system theme until you choose, then remembers it)
 
 | Exam centre opens the paper | Leak tracer |
 |---|---|
